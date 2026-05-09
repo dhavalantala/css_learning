@@ -1,0 +1,25 @@
+h1 {
+    color: darkblue;
+}
+
+p {
+    color: darkseagreen;
+}
+button {
+    color: brown;
+    background-color: lightcyan;
+}
+
+#click-me {
+    font-size: 20px;
+    padding: 10px 20px;
+    font-weight: bold;
+    /* font-style: italic; */
+    /* background-color: bisque; */
+    /* background: scroll; */
+}
+
+body {
+    /* background-color: lightblue; */
+    background-color: rgb(191, 34, 115);
+}
