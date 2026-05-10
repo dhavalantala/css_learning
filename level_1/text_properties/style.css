@@ -1,0 +1,33 @@
+p {
+    /* text-align: center; */
+    /* text-align: right; */
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+    text-decoration: blue wavy underline;
+}
+
+a {
+    text-decoration: none;
+}
+
+#one {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    line-height: 100%;
+    text-transform: capitalize;
+}
+
+#two {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+
+#three {
+    font-size: 10px;
+}

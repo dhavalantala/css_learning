@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    background-color: pink;
+    display: inline;
+    margin-right: 10px;
+}
+
+button{
+    display: block;
+    margin-top: 100px;
+}
+
+/* 
+div {
+    display: None --> hide the block and not occupies the space
+    visibility : Hidden --> It's only hidding the block but its required the space
+} */

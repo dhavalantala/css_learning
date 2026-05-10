@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 10px;
+}
+
+.main_div {
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    border-style: groove;
+    border-width: 5px;
+    border-color: aquamarine;
+}
+
+#div1 {
+    background-color: rgba(255, 0, 0, 0.25);
+}
+
+#div2 {
+    background-color: rgba(255, 0, 0, 0.50);
+}
+
+#div3 {
+    background-color: rgba(255, 0, 0, 0.75);
+}
