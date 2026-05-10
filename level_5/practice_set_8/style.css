@@ -1,0 +1,22 @@
+.loader {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: pink;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    border: 20px solid #FFE66D;
+    border-left: 20px solid #4ECDC4;
+    animation: spinAnimate 3s ease-in 0s infinite normal;
+}
+
+@keyframes spinAnimate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
