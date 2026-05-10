@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+/* body {
+    background-image: url(laptop_photo.jpg);
+    background-size: cover;
+} */
+
+#box1 {
+    background-image: url(laptop_photo.jpg);
+    background-size: cover;
+}
+
+#box2 {
+    background-image: url(laptop_photo.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
