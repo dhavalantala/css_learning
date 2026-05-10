@@ -1,0 +1,53 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+.navbar{
+   background-color: pink;
+   display: flex;
+   justify-content: space-evenly;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+li{
+    list-style: none;
+    background-color: white;
+}
+
+#outerdiv {
+    height: 400px;
+    width: 400px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#innerdiv {
+    height: 100px;
+    width: 100px;
+    background-color: darkviolet;
+}
+
+/* 
+div{
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    background-color: aqua;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+} */
